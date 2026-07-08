@@ -1,0 +1,2 @@
+it only requires python 3.6+
+I will make a youtube tutorial about this project. my youtube: @buildwithsarina
